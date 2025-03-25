@@ -1,1 +1,9 @@
 venv/\n__pycache__/\ndb.sqlite3\n*.log
+# Ignore virtual environment, database, and cache
+venv/
+__pycache__/
+db.sqlite3
+*.log
+media/
+migrations/
+node_modules/
